@@ -5,48 +5,81 @@ A modern web-based application that predicts and visualizes stock price trends u
 🚀 Features
 
 📊 Real-time stock price tracking
+
 🔮 Stock price prediction (based on historical trends)
+
 📈 Interactive charts and visualizations
+
 ⚡ Fast and responsive UI
+
 🎯 Clean and user-friendly dashboard
 
 🛠️ Tech Stack
 Frontend
 
 React + TypeScript – for building scalable UI
+
 Vite – fast development and build tool
+
 Tailwind CSS – modern styling framework
+
 Data & Backend Integration
+
 Supabase – for data handling and real-time capabilities
+
 Tools & Libraries
+
+
 Lucide React – icons
+
 ESLint – code quality and linting
 
 📂 Project Structure
+
 ├── public/
+
 ├── src/
+
 │   ├── components/
+
 │   ├── pages/
+
 │   ├── utils/
+
 │   └── main.tsx
+
 ├── index.html
+
 ├── package.json
+
 ├── vite.config.ts
+
 └── tailwind.config.js
 
 index.html → Root HTML file where React app is mounted
+
 src/ → Main application logic and UI components
+
 vite.config.ts → Vite configuration
+
 tailwind.config.js → Styling configuration
 
 ⚙️ Installation & Setup
+
 Clone the repository
+
 git clone https://github.com/your-username/stock-price-predictor.git
+
 cd stock-price-predictor
+
 Install dependencies
+
 npm install
+
 Run the development server
+
 npm run dev
+
 Open in browser:
 http://localhost:5173
 
